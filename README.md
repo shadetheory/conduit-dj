@@ -3,7 +3,7 @@
 An intelligent DJ automation component for [Conduit](https://github.com/conduit-ui/conduit) that provides beatmatching, smart queue management, and AI-driven music curation powered by Laravel Prism.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jordanpartridge/conduit-dj.svg?style=flat-square)](https://packagist.org/packages/jordanpartridge/conduit-dj)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/jordanpartridge/conduit-dj/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/jordanpartridge/conduit-dj/actions?query=workflow%3Atests+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/shadetheory/conduit-dj/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/shadetheory/conduit-dj/actions?query=workflow%3Atests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/jordanpartridge/conduit-dj.svg?style=flat-square)](https://packagist.org/packages/jordanpartridge/conduit-dj)
 
 ## 🚀 Features
@@ -31,8 +31,8 @@ composer global require jordanpartridge/conduit-dj
 ### Requirements
 - PHP 8.2+
 - Conduit 2.0+
-- [conduit-spotify](https://github.com/jordanpartridge/conduit-spotify) (with event dispatching)
-- [conduit-knowledge](https://github.com/jordanpartridge/conduit-knowledge)
+- [conduit-spotify](https://github.com/shadetheory/conduit-spotify) (with event dispatching)
+- [conduit-knowledge](https://github.com/shadetheory/conduit-knowledge)
 - Spotify Premium account
 
 ## 🎮 Usage
@@ -233,8 +233,8 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 ## 🔗 Related Projects
 
 - [Conduit](https://github.com/conduit-ui/conduit) - The extensible CLI framework
-- [conduit-spotify](https://github.com/jordanpartridge/conduit-spotify) - Spotify integration
-- [conduit-knowledge](https://github.com/jordanpartridge/conduit-knowledge) - Knowledge system
+- [conduit-spotify](https://github.com/shadetheory/conduit-spotify) - Spotify integration
+- [conduit-knowledge](https://github.com/shadetheory/conduit-knowledge) - Knowledge system
 - [Laravel Prism](https://github.com/echolabsdev/prism) - AI integration
 
 ## 📄 License
@@ -243,7 +243,7 @@ The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 ## 🙏 Credits
 
-- [Jordan Partridge](https://github.com/jordanpartridge)
+- [Jordan Partridge](https://github.com/shadetheory)
 - [All Contributors](../../contributors)
 
 ## 🎵 Fun Facts
