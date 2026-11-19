@@ -1324,12 +1324,12 @@
             "version": "v2.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jordanpartridge/conduit-knowledge.git",
+                "url": "https://github.com/shadetheory/conduit-knowledge.git",
                 "reference": "e919a11b828ccd5a1ebd8ad810b8318d05a08489"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jordanpartridge/conduit-knowledge/zipball/e919a11b828ccd5a1ebd8ad810b8318d05a08489",
+                "url": "https://api.github.com/repos/shadetheory/conduit-knowledge/zipball/e919a11b828ccd5a1ebd8ad810b8318d05a08489",
                 "reference": "e919a11b828ccd5a1ebd8ad810b8318d05a08489",
                 "shasum": ""
             },
@@ -1391,8 +1391,8 @@
                 "laravel"
             ],
             "support": {
-                "issues": "https://github.com/jordanpartridge/conduit-knowledge/issues",
-                "source": "https://github.com/jordanpartridge/conduit-knowledge/tree/v2.1.0"
+                "issues": "https://github.com/shadetheory/conduit-knowledge/issues",
+                "source": "https://github.com/shadetheory/conduit-knowledge/tree/v2.1.0"
             },
             "time": "2025-07-31T20:13:52+00:00"
         },
@@ -1401,12 +1401,12 @@
             "version": "dev-feature/comprehensive-event-dispatching",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jordanpartridge/conduit-spotify.git",
+                "url": "https://github.com/shadetheory/conduit-spotify.git",
                 "reference": "e1af9c3977b57e797908d9f2f8be3de77f305b46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jordanpartridge/conduit-spotify/zipball/e1af9c3977b57e797908d9f2f8be3de77f305b46",
+                "url": "https://api.github.com/repos/shadetheory/conduit-spotify/zipball/e1af9c3977b57e797908d9f2f8be3de77f305b46",
                 "reference": "e1af9c3977b57e797908d9f2f8be3de77f305b46",
                 "shasum": ""
             },
@@ -1478,8 +1478,8 @@
                 "spotify"
             ],
             "support": {
-                "issues": "https://github.com/jordanpartridge/conduit-spotify/issues",
-                "source": "https://github.com/jordanpartridge/conduit-spotify/tree/feature/comprehensive-event-dispatching"
+                "issues": "https://github.com/shadetheory/conduit-spotify/issues",
+                "source": "https://github.com/shadetheory/conduit-spotify/tree/feature/comprehensive-event-dispatching"
             },
             "time": "2025-07-31T02:50:42+00:00"
         },
